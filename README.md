@@ -120,3 +120,7 @@ Projeto pessoal para automação de PC com comandos de voz.
 
 Este projeto é de uso pessoal e educacional.  
 Sinta-se à vontade para adaptar ou expandir conforme sua necessidade.
+
+## 👨‍💻 Desenvolvido por
+
+[MHPS](https://www.mhps.com.br) – Soluções em automação e sistemas inteligentes.
